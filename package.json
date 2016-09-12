@@ -1,0 +1,16 @@
+{
+  "name": "codad-cojokes",
+  "version": "0.0.0",
+  "main": "slides.js",
+  "scripts": {
+    "start": "pink run slides.js"
+  },
+  "author": "Bodil",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "less": "^2.7.1",
+    "pink": "0.0.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
